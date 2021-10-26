@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VladPanian
 - 👀 I’m interested in Ansible, Kubernetes, orchestration and automation in general, web/internet appps, cloud and advancements.
-- 🌱 I’m currently learning docker
+- 🌱
 - 💞️ I’m looking to collaborate on future developments
 - 📫 How to reach me vpanian@outlook.com
 
